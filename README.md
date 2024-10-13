@@ -4,7 +4,7 @@ Solves sudoku txt inputs through console.
 
 ## Usage
 
-Run the executable with giving the input file as second argument in the command line.
+Run the executable and give the input file as second argument in the command line.
 
 ### Example:
 
